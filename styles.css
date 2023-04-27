@@ -2,8 +2,8 @@
 *{
 	background:lightgreen;
 }
-.photo-container {
+.photo-album {
 	display:flex;
-	flex-flow:column;
-	backgroundcolor:limegreen;
+	flex-flow:row;
+	text-decoration:none;
 }
