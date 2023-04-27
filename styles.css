@@ -2,7 +2,12 @@
 *{
 	background:lightgreen;
 }
+.section {
+	display:flex;
+	flex-flow:row;
+}
 .photo-album {
+	
 	display:flex;
 	flex-flow:row;
 	text-decoration:none;
